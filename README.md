@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 Hello, I'm [SAURAV CHAURASIYA]! 👋
 I'm a passionate student with a keen interest in Coding , Mathematics ,Cooking and science .
 
+
+---------------------------
+
 👨‍💻 I love coding and exploring new technologies.
 📚 I'm constantly learning and improving my skills.
 💡 I enjoy solving challenging problems and collaborating with others.
+
+---------------------------
+
 
 🔧 Skills
 Programming Languages: [C++,Javascript,HTML,CSS,NEXT.JS]
@@ -29,5 +35,8 @@ DSA and WEB DEVELOPMENT
 LinkedIn: [www.linkedin.com/in/saurav-chaurasiya-3b051b245]
 Email: [souravtechx98@gmail.com]
 🚀 GitHub Stats
+
+--------------------------
+
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
